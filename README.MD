@@ -37,8 +37,6 @@ Modifies recipes based on the request method and data (handled by jsonHandler.mo
 Ingredients: /ingredients (GET method)
 Retrieves ingredient data in JSON format (handled by jsonHandler.handleIngredients).
 
---------------------------------------
-
 Default Styles: /default-styles (GET method)
 Delivers the default CSS stylesheet, probably CSS (handled by responseHandler.getCSS).
 
@@ -53,22 +51,21 @@ Returns a 404 (Not Found) response (handled by responseHandler.get404Response).
 
 --------------------------------------
 
-Request Handling:
+Browse Page JavaScript Functionality (Vue.js):
 
-The onRequest function parses the incoming request URL, method, and query parameters.
-It then matches the request path against the urlStruct object, which maps paths to handler functions.
-If a matching handler is found, it's called with the request, response, parameters, and method.
-Otherwise, the notFound handler is invoked to return a 404 response.
+Vue.js: Leverages Vue.js, a popular JavaScript framework, to manage the dynamic components of the page.
 
---------------------------------------
+Data: Defines variables to store the search term, ingredients, and fetched recipes.
 
-Error Handling:
+searchRecipes() method:
+Trims and processes the comma-separated ingredient list.
+Constructs a fetch request to the /recipes endpoint with the search term and ingredient parameters.
 
-While error handling isn't explicitly shown in the code, it's essential to incorporate proper mechanisms to gracefully handle potential errors and provide meaningful feedback to users. This could involve using try-catch blocks, middleware, or other methods to log errors, send error responses, or display user-friendly error messages.
-Assumptions and Enhancements:
+On successful response:
+Parses the JSON response and updates the recipes data with the retrieved recipe information.
+Logs the fetched recipes to the console for debugging purposes.
 
-Since the specific implementations of the handler functions are not provided, some assumptions have been made based on naming conventions and common practices.
+On error:
+Displays an alert message with the error information.
+v-for loops: Dynamically render the list of recipes and their details based on the available data.
 
-To provide a more accurate and in-depth explanation, consider sharing more details about the data formats, request/response structures, and overall application logic.
-
-Additional enhancements could include adding API documentation with examples, using a more structured approach for organizing endpoints (e.g., RESTful principles), and considering security measures like authentication and authorization for sensitive resources.
