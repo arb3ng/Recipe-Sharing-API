@@ -69,3 +69,60 @@ On error:
 Displays an alert message with the error information.
 v-for loops: Dynamically render the list of recipes and their details based on the available data.
 
+--------------------------------------
+
+Add Page JavaScript functionality (Vue.js):
+
+Vue.js: Manages the dynamic elements of the form using Vue.js.
+Data: Stores information about the recipe name, ingredients, and steps.
+
+Methods:
+
+addIngredient(): Adds a new ingredient object to the ingredients array.
+
+deleteIngredient(ingredient): Removes the specified ingredient from the ingredients array.
+
+addStep(): Adds a new step object to the steps array.
+
+deleteStep(step): Removes the specified step from the steps array.
+
+getRecipe(): Returns a recipe object with the collected data.
+
+Other functions:
+
+sendPost(e, recipe): Handles form submission, sends the recipe data (obtained from getRecipe()) via XHR POST request to the /modify-recipes endpoint, and displays a message based on the server response.
+
+init(): Sets up the Vue.js instance, adds event listeners for the submit button and adding/deleting ingredients and steps.
+
+--------------------------------------
+
+Admin Page JavaScript Functionality (Vue.js):
+
+Vue.js: Manages dynamic elements of the page using Vue.js.
+
+Data:
+
+curRecipe: Stores the data of the currently edited recipe.
+
+recipes: Stores the list of all available recipes.
+
+
+Methods:
+getRecipes(vueApp): Fetches the list of recipes from the /recipes endpoint and updates the recipes data of the specified Vue instance.
+
+editRecipe(e, recipe, vueApp): Handles submitting the edited recipe data. Sends a PUT request to the /modify-recipes endpoint with the updated recipe information. On successful update, refreshes the recipe list and displays an alert message. Otherwise, shows an error message.
+
+init(): Sets up the Vue instances, fetches the initial recipe list, and adds event listeners for various actions like adding/deleting ingredients/steps, updating recipes, and deleting recipes.
+
+
+Other methods:
+
+addIngredient(), deleteIngredient(), addStep(), deleteStep(): Manage adding/removing ingredients and steps for the edited recipe.
+
+stageRecipe(recipe): Sets the currently edited recipe to the selected one from the list.
+
+deleteRecipe(recipeName): Sends a DELETE request to the /modify-recipes endpoint with the recipe name to delete. Refreshes the recipe list and displays an alert message based on the success/failure of the operation.
+
+
+
+
