@@ -2,10 +2,10 @@ This site is meant to be a place where people can record and share family recipe
 The API handles recording and serving up recipes.
 
 Made by:
-Bryan Jay Hizole 
-Cyrel Madjos
-Rb Denzel Mistal
-Kamil Saporna
+Bryan Jay Hizole,
+Cyrel Madjos,
+Rb Denzel Mistal,
+Kamil Saporna,
 from BSI/T - 3C SD
 
 API Overview
