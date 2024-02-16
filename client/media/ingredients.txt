@@ -1,0 +1,1997 @@
+const recipe = [
+{
+    id: 1,
+    name: "GARLIC BUTTER SHRIMP RECIPE ",
+    ingredients: [
+      "1/4 kilo shrimp",
+      "1/4 cup butter",
+      "4 tbsp garlic minced",
+      "1/2 tsp ground black pepper",
+      "1/4 tsp chili flakes optionallt",
+      "1 cup lemon or orange soda",
+      "salt to taste",
+    ],
+    steps: [
+      "1. In a deep bowl, pour the Lemon or Orange Soda then add the shrimp.",
+      "2. Marinate the shrimp in soda for about 15 to 30 minutes.",
+      "3. Melt the butter in a frying pan and apply heat until hot enough to cook the garlic.",
+      "4. Add the garlic and cook until the color turns to golden brown",
+      "5. Add the shrimp and then cook until the color turns orange.",
+      "6. Pour the remaining lemon or orange soda marinade.",
+      "7. Turn the fire to low then simmer until the liquid evaporates completely.",
+      "8. Add ground black pepper, chili flakes and salt as needed.",
+      "9. Sprinkle with scallions on top.",
+      "10.Serve hot with steamed rice or your favorite beer."
+
+    ],
+    tag: "Lunch",
+  },
+
+  {
+    id: 2,
+    name: "Crispy Fried Chicken With Mushroom Gravy ",
+    ingredients: [
+      "2 lbs chicken cut into serving pieces, see note 1",
+      "24 ml Knorr Liquid Seasoning",
+      "3 pieces eggs beaten",
+      "2 cups cooking oil",
+      "¾ cups all-purpose flour",
+      "¾ cups cornstarch",
+      "1 teaspoon baking powder",
+      "1 ½ teaspoons salt",
+      " 55 grams Knorr Cream of Mushroom",
+      "3 tablespoons butter see note 2",
+      " ¼ cup all-purpose flour",
+     "1 ½ cups water",
+    
+    ],
+    steps: [
+        "1. Coat the chicken all over with Knorr Liquid Seasoning. Let it stay for 10 minutes.24 ml Knorr Liquid Seasoning, 2 lbs chicken",
+        "2. Meanwhile, make the mushroom gravy. Melt butter in a pot. Add all-purpose flour. Stir while cooking until lumps form and the mixture turns medium brown in color. 3 tablespoons butter, ¾ cups all-purpose flour",
+        "3. Combine Knorr Cream of Mushroom with 1 ½ cups of water. Mix well and pour into the pot. Stir and let this simmer for a few minutes. Continue stirring until the consistency of the mixture smoothens. Set this aside while keeping it warm. 55 grams Knorr Cream of Mushroom, 1 ½ cups water",
+        "4. Heat the oil in a deep pan. 2 cups cooking oil",
+        "5. Combine all the breading ingredients in a bowl and mix it well. ¾ cups cornstarch, 1 ½ teaspoons salt, ¼ cup all-purpose flour, 1 teaspoon baking powder.",
+        "6. Dredge the chicken into the breading, dip in beaten egg, and roll it back into the breading making sure that the entire piece is well coated. 3 pieces eggs",
+        "7. Start frying the chicken until both sides are brown and crisp (and the internal temperature reads at least 165F).",
+        "8. Arrange on a serving plate. Serve with mushroom gravy. Share and enjoy!",
+
+    ],
+    tag: "Lunch",
+  },
+
+  {
+    id: 3,
+    name: "Filipino Chicken Adobo Recipe ",
+    ingredients: [
+        "lbs chicken (note 1)",
+        "3 pieces dried bay leaves (note 2)",
+        "6 tablespoons soy sauce (note 3)",
+        "4 tablespoons white vinegar (note 4)",
+        "5 cloves garlic (note 5)",
+        "1 1/2 cups water",
+        "3 tablespoons cooking oil",
+        "1 teaspoon sugar (note 6)",
+        "1/4 teaspoon salt (note 7)",
+        "1 teaspoon whole peppercorn (note 8)",
+        
+    ],
+    steps: [
+        "1.	Combine chicken, soy sauce, and garlic in a large bowl. Mix well. Marinate the chicken for at least 1 hour. Note: the longer the time, the better2 lbs chicken, 6 tablespoons soy sauce.",
+        "2.	Heat a cooking pot. Pour cooking oil. 3 tablespoons cooking oil.",
+        "3.	When the oil is hot enough, pan-fry the marinated chicken for 2 minutes per side.",
+        "4.	Pour-in the remaining marinade, including garlic. Add water. Bring to a boil 1 1/2 cups water.",
+        "5.	Add dried bay leaves and whole peppercorn. Simmer for 30 minutes or until the chicken gets tender3 pieces dried bay leaves, 1 teaspoon whole peppercorn",
+        "6.	Add vinegar. Stir and cook for 10 minutes. 4 tablespoons white vinegar.",
+        "7.	Put-in the sugar, and salt. Stir and turn the heat off.Serve hot. Share and Enjoy! 1 teaspoon sugar, 1/4 teaspoon salt.",       
+
+    ],
+    tag: "Lunch",
+  },
+
+  {
+    id: 4,
+    name: "Filipino Chicken Adobo Recipe ",
+    ingredients: [
+        "2 lbs pork belly or buto-buto",
+        "1 bunch spinach or kang-kong",
+        "3 tablespoons fish sauce",
+        "12 pieces string beans sitaw, cut in 2 inch length",
+        "2 pieces tomato quartered",
+        "3 pieces chili or banana pepper",
+        "1 tablespoons cooking oil",
+        "2 quarts water",
+        "1 piece onion sliced",
+        "2 pieces taro gabi, quartered",
+        "1 pack sinigang mix good for 2 liters water",
+        
+        
+    ],
+    steps: [
+        "1. Heat the pot and put-in the cooking oil",
+        "2.	Sauté the onion until its layers separate from each other",
+        "3.	Add the pork belly and cook until outer part turns light brown",
+        "4.	Put-in the fish sauce and mix with the ingredients",
+        "5.	Pour the water and bring to a boil",
+        "6.	Add the taro and tomatoes then simmer for 40 minutes or until pork is tender",
+        "7.	Put-in the sinigang mix and chili",
+        "8.	Add the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes",
+        "9.	Put-in the spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.",
+        "10.	Serve hot. Share and enjoy!",
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 5,
+    name: "Chicken Afritada Sa Gata ",
+    ingredients: [
+        "lbs. chicken sliced into serving pieces",
+        "40 grams Knorr Ginataang Gulay Recipe Mix",
+        "1 Knorr Chicken Cube",
+        "3 potatoes",
+        "4 carrots",
+        "3 bell peppers",
+        "¾ cup green peas",
+        "1 onion chopped",
+        "6 cloves garlic",
+        "8 ounces tomato sauce",
+        "8 hotdogs",
+        "2 cups water",
+        "3 tablespoons cooking oil",
+        "Salt and ground black pepper to taste",
+        
+        
+    ],
+    steps: [
+        "1.	Heat oil in a pan. Saute garlic and onion.",
+        "2.	Add the chicken. Saute until it turns light brown in color.",
+        "3.	Add tomato sauce, hotdogs, and water. Let it boil.",
+        "4.	Combine Knorrr Ginataang Gulay Recipe Mix with 2 cups water. Mix well and then pour it into the pan. Cover and cook for 45 minutes using low heat.",
+        "5.	Add Knorr Chicken Cube, potatoes, and carrots. Cook for 8 minutes.",
+        "6.	Add the green peas and bell peppers. Cook for 3 minutes.",
+        "7.	Season with salt and ground black pepper.",
+        "8.	Serve with rice. Share and enjoy!",
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 6,
+    name: "Kinamatisang Manok",
+    ingredients: [
+        "lb. chicken cut into serving pieces",
+        "4 tomatoes sliced into wedges",
+        "1 Knorr Chicken Cube",
+        "2 bunches bok choy",
+        "3 long green chili peppers",
+        "1 onion sliced",
+        "3 thumbs ginger crushed",
+        "3 cloves garlic chopped",
+        "2 cups water",
+        "3 tablespoons cooking oil",
+        "Fish sauce and ground black pepper to taste",
+        
+        
+        
+    ],
+    steps: [
+        "1.	Heat oil in a cooking pot. Sauté garlic until it starts to brown.",
+        "2.	Add onion and ginger. Continue cooking until the onion softens.",
+        "3.	Put the chicken pieces into the pot. Cook each side for 1 minute.",
+        "4.	Stir-in half of the tomatoes. Cook for 2 minutes.",
+        "5.	Pour the water and let boil.",
+        "6.	Add Knorr Chicken Cube and 2 teaspoons of fish sauce. Cover the pot and adjust the heat to low setting. Boil the chicken for 20 minutes.",
+        "7.	Add remaining tomatoes, long green pepper, and bok choy. Cover and cook for 3 minutes.",
+        "8.	Season with ground black pepper and fish sauce as needed.",
+        "9.	Serve warm with rice. Share and enjoy!",
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 7,
+    name: "Chicken Mechado",
+    ingredients: [
+        "lbs. chicken cut into serving pieces",
+        "1 Knorr Chicken Cube",
+        "2 potatoes sliced",
+        "3 tablespoons soy sauce",
+        "1 lemon",
+        "8 ounces tomato sauce",
+        "1 bell pepper optional",
+        "1 cup water",
+        "3 laurel leaves",
+        "1 onion chopped",
+        "3 cloves garlic chopped",
+        "½ teaspoon sugar",
+        "Salt and ground black pepper to taste",
+         "tablespoons cooking oil",
+        
+        
+        
+        
+    ],
+    steps: [
+        "1.	Heat oil in a pan. Fry the potatoes for 3 minutes per side. Remove from the pan. Set aside.",
+        "2.	Sauté onion and garlic until the former softens.",
+        "3.	Add chicken pieces. Sauté for 3 to 4 minutes.",
+        "4.	Add the soy sauce. Cook for 1 minute.",
+        "5.	Add tomato sauce and water. Let it boil.",
+        "6.	Add Knorr Chicken Cube and laurel leaves. Cover the pan. Adjust the heat to the lowest setting. Continue cooking for 40 minutes.",
+        "7.	Add lemon zest and bell pepper. Cook for 3 minutes.",
+        "8.	Put the sugar and fried potato in the pot. Cook for 2 minutes.",
+        "9.	Season with salt and ground black pepper.",
+         "10.	Serve warm with rice. Share and enjoy!",
+
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 8,
+    name: "Chicken Mechado",
+    ingredients: [
+        "2 lbs. chicken cut into serving pieces",
+        "1 Knorr Chicken Cube",
+        "8 ounces pineapple chunks",
+        "1 carrot thinly sliced crosswise",
+        "1 red bell pepper sliced into squares",
+        "1 green bell pepper sliced into squares",
+        "3 tablespoons soy sauce",
+        "2 tablespoons liver spread",
+        "1 onion diced",
+        "5 cloves garlic chopped",
+        "4 tablespoons cooking oil",
+        "2 cups water",
+        "2 tablespoons cornstarch",
+        "1 teaspoon sugar",
+        "Salt and ground black pepper to taste",
+        
+        
+        
+        
+    ],
+    steps: [
+        "1.	Heat oil in a pan. Pan-fry the chicken pieces until the sides turns light brown in color. Remove from the chicken and set aside.",
+        "2.	Sauté onion and garlic using the remaining oil.",
+        "3.	Add the chicken back in once the onion softens.",
+        "4.	Pour soy sauce and stir while deglazing the chicken residue stuck on the pan.",
+        "5.	Add pineapple chunks and water. Let boil.",
+        "6.	Put-in the Knorr Chicken Cube. Cover the pan. Adjust the heat between low to medium settings. Cook the chicken for 25 minutes.",
+        "7.	Add liver spread and carrot. Cook for 5 minutes.",
+        "8.	Add bell peppers. Season with salt and ground black pepper.",
+        "9.	Combine cornstarch with 3 tablespoons of water. Mix well and then pour into the pan. Stir until the sauce reaches your desired thickness.",
+        "10. Add sugar. Cook for a minute.",
+        "11. Transfer to a serving plate. Serve warm with rice.",
+        "13. Share and enjoy!",
+
+        
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 9,
+    name: "Original Buffalo Chicken Wings",
+    ingredients: [
+        "2 lbs chicken wings",
+        "5 Tablespoons unsalted butter",
+        "1/2 cup Frank's RedHot sauce",
+        
+    ],
+    steps: [
+        "1.	Divide the wings into 3 parts. Separate the drumette from the wingette. Cut off the wingtip and set aside. Note: we'll only be using the big parts.",
+        "2.	Pat the wings dry with paper towel and arrange inside an air fryer. Air fry one side for 12 minutes at 350F. Do the same with the opposite side.",
+        "3.	Make the sauce by melting butter in a microwave oven. Add the hot sauce and stir until well blended.",
+        "4.	Soak chicken wings in the sauce. Make sure that each piece is fully coated.",
+        "5.	Serve with ranch dressing, carrots, and celery. Share and enjoy!",
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 10,
+    name: "Garlic Roast Chicken",
+    ingredients: [
+        "1 whole chicken cleaned",
+        "1 tablespoon Knorr Liquid Seasoning",
+        "1 head garlic crushed",
+        "1 piece lemon",
+        "6 tablespoons butter",
+        "1 sprig rosemary",
+        "½ teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        
+        
+    ],
+    steps: [
+        "1.	Preheat oven to 450F",
+        "2.	Pat chicken dry with a paper towel and arrange on a roasting pan.",
+        "3.	Crush the garlic and rosemary using a mortar and pestle tool until the texture becomes paste-like.",
+        "4.	Make the compound butter by mashing the butter using a fork. Add the garlic and rosemary paste and season with Knorr Liquid Seasoning. Mix well. Set aside.",
+        "5.	Place the chicken on a clean cast iron pan or a baking tray.",
+        "6.	Loose the skin from the meat by sliding your fingers between the meat and the skin. Spread the compound butter between the meat and skin of the chicken. Put the remaining butter inside the cavity.",
+        "7.	Squeeze lemon all over the chicken and sprinkle salt and ground black pepper. Stuff the lemon peel inside the cavity.",
+        "8.	Put the chicken inside the oven and bake for 20 minutes. Lower the temperature to 350F and continue baking until the internal temperature reaches 165F (it took me 50 minutes for this step, total baking time is 70 minutes).",
+        "9.	Remove the chicken from the oven. Cover with aluminum foil and let the chicken rest for 20 minutes.",
+        "10.	Serve. Share and enjoy!",
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+
+
+{
+    id: 11,
+    name: "Garlic Roast Chicken",
+    ingredients: [
+        "1 whole chicken cleaned",
+        "1 tablespoon Knorr Liquid Seasoning",
+        "1 head garlic crushed",
+        "1 piece lemon",
+        "6 tablespoons butter",
+        "1 sprig rosemary",
+        "½ teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        
+        
+    ],
+    steps: [
+        "1.	Preheat oven to 450F",
+        "2.	Pat chicken dry with a paper towel and arrange on a roasting pan.",
+        "3.	Crush the garlic and rosemary using a mortar and pestle tool until the texture becomes paste-like.",
+        "4.	Make the compound butter by mashing the butter using a fork. Add the garlic and rosemary paste and season with Knorr Liquid Seasoning. Mix well. Set aside.",
+        "5.	Place the chicken on a clean cast iron pan or a baking tray.",
+        "6.	Loose the skin from the meat by sliding your fingers between the meat and the skin. Spread the compound butter between the meat and skin of the chicken. Put the remaining butter inside the cavity.",
+        "7.	Squeeze lemon all over the chicken and sprinkle salt and ground black pepper. Stuff the lemon peel inside the cavity.",
+        "8.	Put the chicken inside the oven and bake for 20 minutes. Lower the temperature to 350F and continue baking until the internal temperature reaches 165F (it took me 50 minutes for this step, total baking time is 70 minutes).",
+        "9.	Remove the chicken from the oven. Cover with aluminum foil and let the chicken rest for 20 minutes.",
+        "10.	Serve. Share and enjoy!",
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 12,
+    name: "Sinarsahang Manok",
+    ingredients: [
+      "1 ½ lbs. chicken cut into serving pieces",
+      "1 piece bell pepper Julienne",
+      "1 piece Knorr Chicken Cube",
+      "½ cup green peas",
+      "6 pieces long green beans sliced",
+      "1 piece onion chopped",
+      "3 cloves garlic chopped",
+      "1 piece tomato diced",
+      "3 tablespoons soy sauce",
+      "8 ounces tomato sauce",
+      "1 ½ cups water",
+      "½ cup tomato ketchup",
+      "½ teaspoon white sugar",
+      "Salt and ground black pepper to taste",
+      "¼ cup cooking oil",
+      
+        
+        
+    ],
+    steps: [
+      "1.	Heat 2 tablespoons of oil in a pan. Sauté the bell pepper, green peas, and long green beans for 45 seconds. Remove from the pan and set aside.",
+      "2.	Add remaining oil. Once oil becomes hot, pan-fry chicken pieces for 3 minutes per side. Remove chicken from the pan and place on a clean plate. Set aside.",
+      "3.	Sauté garlic, onion, and tomato using the remaining oil. Add soy sauce, tomato sauce, and water once the onion softens. Let it boil.",
+      "4.	Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.",
+      "5.	Add back the stir-fried vegetables.",
+      "6.	Season with sugar, salt, and ground black pepper. Transfer to a serving plate. Serve!",
+     
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 13,
+    name: "Chicken Barbecue",
+    ingredients: [
+      "4 pieces chicken leg quarters cleaned",
+      "1/2 cup soy sauce",
+      "1 piece lemon or 4 pieces calamansi",
+      "2 teaspoons salt",
+      "1 teaspoon ground black pepper",
+      "1/2 cup banana ketchup",
+      
+        
+        
+    ],
+    steps: [
+      "1.	Make the marinade by combining the soy sauce, juice of 1 lemon, banana ketchup, salt, and ground black pepper in a bowl. Stir to mix.",
+      "2.	Put the chicken leg quarters inside a large freezer bag, and then pour-in the marinade.",
+      "3.	Shake the bag gently to coat the chicken with marinade then remove the air inside the bag. Seal the bag then refrigerate overnight.",
+      "4.	Remove the chicken from the bag and transfer the remaining marinade to a bowl.",
+      "5.	Heat-up your grill and start grilling the chicken under medium heat for 12 to 15 minutes per side or until the chicken is completely cooked. Do not forget to baste the chicken with the remaining marinade mixture.",
+      "6.	Note: Chicken takes a long time to cook. Grilling it in high heat will cause the outer part of the chicken to cook earlier leaving the inside raw.",
+      "7.	Remove from the grill and transfer to a serving plate.",
+      "8.	Serve with steamed rice.",
+      "9.	Share and enjoy!",
+      
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+  
+  {
+    id: 14,
+    name: "Chicken Afritada Recipe",
+    ingredients: [
+      "1 ½ lbs. Chicken cut into serving pieces",
+      "2 piece potato cubed",
+      "1 piece carrot sliced",
+      "8 oz. tomato sauce",
+      "3 pieces hotdog sliced",
+      "½ cup green peas",
+      "3 pieces bay leaves",
+      "1 piece red onion chopped",
+      "2 teaspoons garlic minced",
+      "3 cups chicken broth",
+      "½ teaspoon sugar",
+      "3 tablespoons cooking oil",
+      "Salt and ground black pepper to taste",
+      
+      
+        
+        
+    ],
+    steps: [
+      "1.	Heat the oil in a cooking pot. Saute onion and garlic until the onion softens.",
+      "2.	Add chicken. Cook for 30 seconds. Turn it over and cook the other side for another 30 seconds.",
+      "3.	Pour tomato sauce and chicken broth. Cover. Let boil.",
+      "4.	Add dried bay leaves. Cover the cooking pot. Continue to cook in medium heat for 30 minutes.",
+      "5.	Add hotdogs and carrot. Cook for 3 minutes.",
+      "6.	Add potato. Cover the pot and cook for 8 minutes.",
+      "7.	Add green peas. Cook for 2 minutes.",
+      "8.	Season with salt and ground black pepper",
+      "9.	Serve!",
+      
+      
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 15,
+    name: "Sweet And Sour Chicken Meatballs",
+    ingredients: [
+      "1 lb. ground chicken",
+      "1/2 cup breadcrumbs",
+      "1 piece Knorr Chicken Cube",
+      "1 piece egg",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon ground black pepper",
+      "¼ cup cooking oil",
+      "1 ¾ cups water",
+      "4 tablespoons banana ketchup",
+      "5 tablespoons white sugar",
+      "4 tablespoons white vinegar",
+      "¼ cup bell pepper Julienne",
+      "2 tablespoons onion sliced",
+      "3 tablespoons carrot Julienne",
+      "1 1/2 tablespoons cornstarch diluted in 2 tablespoons water",
+      "A few drops of Knorr Liquid Seasoning",
+      
+      
+      
+        
+        
+    ],
+    steps: [
+      "1.	Make the chicken balls by placing the ground chicken in a large mixing bowl. Grate a piece of Knorr chicken cube and then add salt and pepper. Crack egg on the bowl and then mix well until all ingredients are blended. Gradually add breadcrumbs while mixing.",
+      "2.	Scoop 2 tablespoons of mixture. Roll into a ball-shaped figure. Set aside. Perform this step until all the chicken mixture is consumed.",
+      "3.	Heat oil in a pan. Fry the chicken meatballs using medium heat while rolling the balls every few seconds to cook it evenly. Remove the chicken meatballs from the pot once the outer part turns brown. Set aside.",
+      "4.	Make the sweet and sour sauce. Using remaining oil, saute onion until layers separate. Add bell pepper and carrot. Cook for 1 minute.",
+      "5.	Pour-in water and then add sugar, vinegar, and banana ketchup. Let boil. Stir until all ingredients are well incorporated. Thicken the sauce by adding cornstarch diluted in water. Stir until desired consistency is achieved.",
+      "6.	Put the chicken back into the pot. Stir to coat with sauce.",
+      "7.	Transfer to a serving plate. Serve. Share and enjoy!",
+  
+      
+      
+        
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 16,
+    name: "Chicken Kare-Kare Sa Gata",
+    ingredients: [
+      "1 1/2 lbs. chicken cut into serving pieces",
+      "1 piece Knorr Chicken Cube",
+      "1 cup ground peanuts",
+      "2 bunches baby bok choy",
+      "1 piece eggplant sliced",
+      "8 pieces snake beans",
+      "1 piece onion chopped",
+      "5 cloves garlic chopped",
+      "2 teaspoons paprika",
+      "1 teaspoon turmeric powder",
+      "1/4 cup bagoong alamang",
+      "3 cups coconut milk",
+      "5 tablespoons cooking oil",
+      "Ground black pepper to taste",
+      "1 teaspoon salt",
+             
+        
+    ],
+    steps: [
+      "1.	Rub salt all over chicken pieces. Let it stay for 5 minutes.",
+      "2.	Heat 3 tablespoons oil in a cooking pot. Pan-fry chicken for 2 minutes per side. Remove from pan. Set aside.",
+      "3.	Add remaining oil. Saute garlic and onion until the latter turns translucent.",
+      "4.	Pour-in coconut milk. Let boil. Add paprika and turmeric powder. Stir.",
+      "5.	Add chicken. Cover the pot and let the sauce boil.",
+      "6.	Add Knorr Chicken Cube. Set heat between low to medium. Continue cooking for 25 minutes.",
+      "7.	Add peanut paste. Stir until paste is completely diluted.",
+      "8.	Put the eggplant, snake beans into the pot. Cover and cook for 5 to 8 minutes. Add bok choy. Cook for 3 minutes.",
+      "9.	Season with ground black pepper.",
+      "10.	Transfer to a serving bowl. Serve with bagoong alamang. Share and enjoy!",
+        
+    ],
+    tag: "Lunch",
+  }, 
+
+  {
+    id: 17,
+    name: "Chicken Pancit Habhab",
+    ingredients: [
+      "1 lb. Habhab noodles",
+      "2 sachet Knorr SavorRich Liquid Seasoning 16 gram",
+      "1/2 lb. boneless chicken breast boiled and shredded",
+      "1 piece chayote sliced",
+      "20 pieces snow peas",
+      "3/4 cup carrots julienne",
+      "2 bunches baby bok choy chopped",
+      "1 piece onion chopped",
+      "4 cloves garlic crushed",
+      "1/4 cup soy sauce",
+      "4 cups water or chicken stock",
+      "6 tablespoons cooking oil",
+      "Salt and ground black pepper to taste",
+      
+             
+        
+    ],
+    steps: [
+      "1.	Heat 3 tablespoons oil in a cooking pot. Saute chayote for 2 minutes. Add carrot and saute for 30 to 40 seconds. Put the snow peas into the pot. Season with salt and pepper. Add bok choy and cook for 1 minute. Remove the vegetables from the pot and place in a clean bowl. Set aside.",
+      "2.	Heat the remaining oil on the same pot. Saute onion and garlic until onion softens.",
+      "3.	Add shredded chicken. Cook for 1 to 2 minutes.",
+      "4.	Add Knorr SavorRich Chicken Liquid Seasoning. Continue to cook for 1 minute or until the chicken gets completely coated.",
+      "5.	Pour chicken stock (this is the water used to boil the chicken breast. The amount is approximately 4 cups).",
+      "6.	Pour-in soy sauce. Stir. Let the liquid boil.",
+      "7.	Put half of the hab hab noodles into the pot. Let it cook until enough liquid is absorbed. Once the noodles starts to soften, add the remaining noodles. Continue to cook in low heat while tossing once in a while until the liquid is fully absorbed and the noodles becomes soft, but not mushy.",
+      "8.	Season with ground black pepper and put the stir-fried vegetables back into the pot. Toss and cook for 2 minutes.",
+      "9.	Transfer to a serving plate. Share and enjoy!",
+      
+        
+    ],
+    tag: "Lunch",
+  },  
+  
+  {
+    id: 18,
+    name: "Chicken Bicol Express",
+    ingredients: [
+      "2 pieces long green pepper sliced",
+      "5 pieces Thai chili pepper chopped",
+      "1 thumb ginger minced",
+      "1 tablespoon bagoong alamang",
+      "1 piece onion chopped",
+      "4 cloves garlic crushed",
+      "3 tablespoons cooking oil",
+      
+             
+        
+    ],
+    steps: [
+      "1.	Heat oil in a cooking pot. Saute garlic, onion, and ginger.",
+      "2.	Once the onion softens, add chicken and chili peppers. Stir and cook until chicken turns light brown.",
+      "3.	Pour-in coconut milk. Let boil.",
+      "4.	Add Knorr Chicken Cube. Continue to cook between low to medium heat until the coconut milk reduces to half.",
+      "5.	Add bagoong alamang and log green peppers. Cover and cook for 2 minutes.",
+      "6.	Transfer to a serving bowl. Serve!",
+      "7.	Share and enjoy!",
+      
+        
+    ],
+    tag: "Lunch",
+  },   
+
+
+  {
+    id: 19,
+    name: "Chicken Tinola Recipe",
+    ingredients: [
+      "1 whole chicken cut into serving pieces",
+      "36 ounces rice washing",
+      "1/2 piece green papaya cut into wedges",
+      "1 tablespoon garlic minced",
+      "1 piece onion chopped",
+      "1 thumb ginger cut into strips",
+      "2 tablespoon fish sauce",
+      "1 cup Hot pepper leaves",
+      "3 tablespoons fish sauce",
+      "1/4 teaspoon ground black pepper",
+      
+      
+             
+        
+    ],
+    steps: [
+      "1.	Sauté the garlic, onion, and ginger",
+      "2.	Put-in the chicken and cook until color turns light brown",
+      "3.	Add the fish sauce. Stir. Pour rice washing into the cooking pot. Let boil. Cover the pot and simmer for 45 minutes. Note: add water if needed.",
+      "4.	Add green papaya. Cook for 5 minutes",
+      "5.	Add the hot pepper leaves or malunggay leaves. Stir and cook for 1 minute.",
+      "6.	Season with ground black pepper. Note you can also add fish sauce or salt if needed.",
+      "7.	Transfer to a serving bowl. Serve hot. Share and enjoy!",
+      
+      
+        
+    ],
+    tag: "Lunch",
+  },     
+
+  {
+    id: 20,
+    name: "Peach Mango Pie (Air Fry)",
+    ingredients: [
+      "12 slices loaf bread",
+      "1 cup Good Life breadcrumbs",
+      "2 tablespoons all-purpose flour",
+      "2 eggs beaten",
+      "15 ounces mango diced",
+      "15 ounces peach diced",
+      "10 tbsp granulated white sugar",
+      "1 tablespoon cornstarch",
+      "1 teaspoon lemon juice",
+      "A pinch of salt",
+      "½ teaspoon vanilla extract",
+      "3 tablespoons water",
+      
+    ],
+    steps: [
+      "1.	Make the filling by combining mangoes, peaches, sugar, vanilla extract, lemon juice, and salt in a bowl. Mix well.",
+      "2.	Pour the mixture in a pan. Cook for 5 minutes.",
+      "3.	Combine cornstarch and water to create a slurry. Mix well. Pour the mixture into the pan. Stir and continue cooking until the mixture thickens. Remove from the pan and let it cool down.",
+      "4.	Lay each slice of loaf on a chopping board. Slice-out the dark edges. Dust flour on your rolling pin and then flatten each bread slices.",
+      "5.	Scoop around 2 ½ tablespoons of filling mixture and put it on the center of the flattened bread. Make bread pockets by covering the filling. Do this by folding the bread symmetrically. Brush beaten egg on the sides and secure it by pressing the edges against each other. Do this step until all the filling are consumed.",
+      "6.	Dredge the bread pockets in all-purpose flour. Dip in beaten egg. Roll it in Good Life Breadcrumbs. Spray cooking oil on both sides and then arrange in a clean plate. Let it stay for at least 5 minutes.",
+      "7.	Air fry in 370F until the breadcrumbs turns golden brown. Flip the peach mango pie and do the same on the opposite side. Serve. Share and enjoy!",
+
+      
+      
+        
+    ],
+    tag: "Lunch",
+  },     
+
+  {
+    id: 21,
+    name: "Cassava Cake Recipe Creamy And Cheesy Version",
+    ingredients: [
+      "2 lbs. cassava grated",
+      "2 cups coconut cream",
+      "12 ounces evaporated milk",
+      "3 eggs",
+      "3 tablespoons butter melted",
+      "1/2 cup quick-melt cheese shredded",
+      "14 ounces condensed milk",
+      "1 cup coconut cream",
+      "7 ounces condensed milk",
+      "1 cup quick-melt cheese shredded",
+      "4 tablespoons butter melted",
+      
+      
+    ],
+    steps: [
+      "1.	Preheat oven to 350F.",
+      "2.	Combine the wet ingredients in a mixing bowl starting by cracking the eggs. Beat until smooth. Pour the evaporated milk, condensed milk, butter, and coconut milk. Whisk everything together until the mixture smoothens.",
+      "3.	Add the grated cassava and ½ cup cheese in the bowl where the wet ingredients are at. Mix well.",
+      "4.	Transfer the mixture into a greased baking pan. Bake for 1 hour.",
+      "5.	Prepare the topping my mixing all the toping ingredients in a clean bowl. Mix everything together. Set aside.",
+      "6.	Pour the topping mixture over the baked cassava. Put the baking pan back in the oven. Continue baking for 350F until the topping thickens. Note: You will notice that it will burn a bit, that is normal.",
+      "7.	Remove the baking pan from the oven. Let the cassava cake cool down.",
+      "8.	Slice the cake into serving pieces. Serve for dessert.",
+      
+
+      
+      
+        
+    ],
+    tag: "Dessert",
+  },     
+
+  {
+    id: 23,
+    name: "Macaroni Salad",
+    ingredients: [
+      "500 grams elbow macaroni",
+      "470 ml Lady’s Choice real mayonnaise",
+      "300 ml condensed milk",
+      "250 ml all-purpose cream",
+      "250 grams sharp cheddar cheese diced",
+      "250 grams nata de coco red, drained",
+      "250 grams nata de coco green, drained",
+      "350 grams kaong (sugar palm) drained",
+      "850 grams fruit cocktail drained",
+      
+      
+      
+    ],
+    steps: [
+      "1.	Cook macaroni based on package instructions. Set aside.",
+      "2.	Combine all-purpose cream, condensed milk, and Lady’s Choice Mayonnaise in a large mixing bowl. Mix well.",
+      "3.	Add kaong, nata de coco, fruit cocktail, and cheese. Mix well.",
+      "4.	Put the cooked macaroni into the bowl with the other ingredients. Toss until well blended.",
+      "5.	Cover the bowl and refrigerate for at least 1 hour.",
+      "6.	Serve chilled. Share and enjoy!",
+  
+    ],
+    tag: "Dessert",
+  },     
+
+  {
+    id: 24,
+    name: "Biko Recipe",
+    ingredients: [
+      "2 cups glutinous rice aka sticky rice or malagkit",
+      "1 1/2 cups water",
+      "2 cups brown sugar",
+      "4 cups coconut milk",
+      "1/2 tsp salt",
+      
+      
+      
+      
+    ],
+    steps: [
+      "1.	Combine the sticky rice and water in a rice cooker and cook until the rice is ready (we intentionally combined lesser amount of water than the usual so that the rice will not be fully cooked)",
+      "2.	While the rice is cooking, combine the coconut milk with brown sugar and salt in a separate pot and cook in low heat until the texture becomes thick. Stir constantly.",
+      "3.	Once the rice is cooked and the coconut milk-sugar mixture is thick enough, add the cooked rice in the coconut milk and sugar mixture then mix well. Continue cooking until all the liquid evaporates (but do not overcook).",
+      "4.	Scoop the cooked biko and place it in a serving plate then flatten the surface.",
+      "5.	Share and Enjoy!",
+      
+  
+    ],
+    tag: "Dessert",
+  },  
+
+  {
+    id: 25,
+    name: "Ube Halaya With Cheese",
+    ingredients: [
+      "1 lb. grated purple yam",
+      "1 14 oz. can condensed milk",
+      "2 cups coconut milk",
+      "3 tablespoons butter",
+      "1 teaspoon ube flavoring",
+      "1/2 cup shredded cheddar cheese",
+      
+      
+      
+      
+      
+    ],
+    steps: [
+      "1.	Pour coconut milk in a cooking pot. Let boil.",
+      "2.	Stir and add the condensed milk.",
+      "3.	Once the mixture starts to boil, add the grated purple yam and ube flavoring. Continue to cook in medium heat while continuously stirring for 30 minutes.",
+      "4.	Add butter. Stir. Cook until the mixture reaches your desired thickness. (I usually cook it for 10 to 12 minutes after adding butter).",
+      "5.	Transfer to a container. Top with shredded cheese.",
+      "6.	Serve. Share and enjoy!",
+      
+      
+  
+    ],
+    tag: "Dessert",
+  },      {
+    id: 26,
+    name: "Leche Flan Recipe",
+    ingredients: [
+      "10 pieces eggs",
+      "1 can condensed milk (14 oz)",
+      "1 cup fresh milk or evaporated milk",
+      "1 cup granulated sugar",
+      "1 teaspoon vanilla extract",
+      
+    ],
+    steps: [
+      "1.	Using all the eggs, separate the yolk from the egg white (only egg yolks will be used).",
+      "2.	Place the egg yolks in a big bowl then beat them using a fork or an egg beater",
+      "3.	Add the condensed milk and mix thoroughly",
+      "4.	Pour-in the fresh milk and Vanilla. Mix well",
+      "5.	Put the mold (llanera) on top of the stove and heat using low fire",
+      "6.	Put-in the granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) having a light brown color. Note: Sometimes it is hard to find a Llanera (Traditional flan mold) depending on your location. I find it more convenient to use individual Round Pans in making leche flan.",
+      "7.	Spread the caramel (liquid sugar) evenly on the flat side of the mold",
+      "8.	Wait for 5 minutes then pour the egg yolk and milk mixture on the mold",
+      "9.	Cover the top of the mold using an Aluminum foil",
+      "10.	Steam the mold with egg and milk mixture for 30 to 35 minutes.",
+      "11.	After steaming, let the temperature cool down then refrigerate",
+      "12.	Serve for dessert. Share and Enjoy!",
+      
+      
+      
+  
+    ],
+    tag: "Dessert",
+  },    
+
+{
+  id: 27,
+  name: "Buko Pandan",
+  ingredients: [
+    "1 1/2 cup young coconut cut into strips",
+    "5 ounces condensed milk",
+    "8 ounces Table cream or all-purpose cream",
+    "3 ounces powdered gelatin",
+    "1 1/4 cups water",
+    "6 drops Buko Pandan flavoring",
+    "2 scoops vanilla ice cream optional",
+    "1/2 cup sago pearls cooked (optional)",
+    
+    
+  ],
+  steps: [
+    "1.	Combine water and powdered gelatin then stir using a spoon.",
+    "2.	Add Buko Pandan flavoring then stir until everything is evenly distributed.",
+    "3.	Heat a saucepan and pour-in the mixture. Bring to a boil while continuously stirring.",
+    "4.	Turn off the heat and transfer the mixture to a mold. Allow the temperature to cool. The texture of the mixture should be firm once cooled. You may also place this inside the refrigerator for faster results (allow the temperature to go down before putting-in the refrigerator).",
+    "5.	Combine condensed milk, table cream, sago pearls, and young coconut then mix well. Allow the texture to thicken by chilling in the refrigerator or freezer for a few hours.",
+    "6.	Slice the firm gelatin into 1 inch cubes then combine with the condensed milk-cream-young coconut-sago mixture.",
+    "7.	Transfer to individual serving platters or cups then top with a scoop of vanilla ice-cream.",
+    "8.	Serve for dessert. Share and enjoy!",
+
+  ],
+  tag: "Dessert",
+},     
+
+{
+  id: 28,
+  name: "Maja Blanca Recipe",
+  ingredients: [
+    "4 cups coconut milk",
+    "3/4 cup cornstarch",
+    "14 ounces condensed milk",
+    "3/4 cup fresh milk",
+    "3/4 cup granulated sugar",
+    "15 ounces whole sweet kernel corn",
+    "5 tbsp toasted grated coconut",
+    
+    
+    
+  ],
+  steps: [
+    "1.	Pour the coconut milk in a cooking pot and bring to a boil.",
+    "2.	Add the sugar, condensed milk, and whole sweet kernel corn then stir until all the ingredients are evenly distributed.",
+    "3.	Simmer for 8 minutes",
+    "4.	Combine the milk and cornstarch then whisk until the cornstarch is diluted",
+    "5.	Pour the fresh milk and cornstarch mixture in the cooking pot and stir thoroughly.",
+    "6.	Allow to cook while stirring until the mixture reaches your desired thickness",
+    "7.	Pour the mixture in a serving tray then arrange and flatten the top using a flat tool such as a wooden spatula",
+    "8.	Allow to cool down then refrigerate for at least 1 hour",
+    "9.	Garnish with toasted grated coconut (or latik if available)",
+    "10.	Serve cold. Share and enjoy!",
+    
+
+  ],
+  tag: "Dessert",
+}, 
+
+{
+  id: 29,
+  name: "Yema",
+  ingredients: [
+    "7 pieces egg yolks",
+    "1 can condensed milk (14 oz.)",
+    "3 tablespoons butter",
+    "5 tablespoons chopped walnuts or peanuts",
+    
+    
+    
+    
+  ],
+  steps: [
+    "1.	Combine egg yolks and condensed milk. Mix well.",
+    "2.	Add chopped walnuts. Whisk until well blended.",
+    "3.	Melt butter in a cooking pot or pan. Pour the egg yolk mistuxe into the pan.",
+    "4.	Continue to cook until the consistency becomes very thick to the point that it can easily form a shape when molded.",
+    "5.	Transfer the mixture to a bowl. Let it cool down.",
+    "6.	Cut the cellophane into 3x3 inch pieces. Scoop 1 tablespoons of mixture and place at the middle of the cellophane. Wrap the yema while molding to form a pyramid shape piece (note: watch the video for details). Continue to wrap the yema until all the mixture are consumed.",
+    "7.	Serve . Share and enjoy.",
+    
+    
+
+  ],
+  tag: "Dessert",
+},     
+
+{
+  id: 30,
+  name: "YMini Turon Recipe (Banana Lumpia With Caramel)",
+  ingredients: [
+    "3 pieces Saba banana quartered",
+    "12 pieces thin lumpia wrapper",
+    "1/2 cup ripe jackfruit sliced into strips",
+    "½ cup brown sugar",
+    "1 cup vanilla ice cream optional",
+    "1 cup canola oil",
+    "1 cup brown sugar",
+    "1 cup water",
+    
+    
+    
+    
+    
+  ],
+  steps: [
+    "1.	Prepare the simple syrup by boiling the water in a pot. Add the brown sugar. Stir until sugar is completely diluted. Continue to cook in low heat until the liquid reduces in half. Set aside.",
+    "2.	Prepare the mini turon by arranging a piece of sliced banana over a lumpia wrapper. Put a strip of jackfruit on the side and spread a teaspoon or two of brown sugar. Secure the wrap by folding both sides inwards and then roll until the contents are completely wrapped. Seal the end of the wrapper by rubbing a bit of water using your fingers, and then press it gently against the turon.",
+    "3.	Start to heat the oil in a pan.",
+    "4.	Meanwhile, brush some simple syrup all over each piece of turon. You can also dip the turon in syrup.",
+    "5.	Fry one side in low to medium heat for 3 minutes. Turn over to fry the other side for the same time or until the mini turon pieces are golden brown and crispy.",
+    "6.	Arrange in a plate. Serve with scoops of vanilla ice cream.",
+    "7.	Share and enjoy!",
+     
+    
+    
+
+  ],
+  tag: "Dessert",
+},     
+
+{
+  id: 31,
+  name: "Buttered Puto Recipe",
+  ingredients: [
+    "4 cups flour sifted",
+    "2 cups sugar sifted",
+    "2 1/2 tbsp baking powder",
+    "1 cup evaporated milk",
+    "2 1/2 cups water",
+    "1/8 teaspoon Pandan essence",
+    "1/2 cup butter melted",
+    "1 piece egg raw",
+    "small slices of cheese",
+    "4 cups water for steaming",
+    
+  ],
+  steps: [
+    "1.	In a mixing bowl, combine the dry ingredients starting from the flour, sugar,and baking powder then mix well.",
+    "2.	Add the butter, evaporated milk, egg, water and pandan essence (dissolve the pandan essence in water) then mix all the ingredients thoroughly.",
+    "3.	Pour the mixture in individual molds",
+    "4.	If you are using non - quick melt Filipino brand cheese, You may put the cheese on top of the mixture otherwise put the cheese on top after steaming (step 6)",
+    "5.	Pour the water in the steamer.",
+    "6.	Arrange the molds in the steamer then steam for about 20 minutes",
+    "7.	If you are using quick melt cheese,remove the cover of the steamer and top each puto with quick melt cheese then continue steaming (with the cover on) for 2 to 5 minutes",
+    "8.	Remove from the mold and arrange in a serving plate",
+    "9.	Serve either hot or cold. This goes well with dinuguan 😉 Share and Enjoy!",
+
+  ],
+  tag: "Dessert",
+},     
+
+{
+  id: 32,
+  name: "Sapin Sapin RecipeS",
+  ingredients: [
+    "2 cups glutinous rice flour",
+    "4 cups coconut milk",
+    "1 cup granulated white sugar",
+    "7 oz. 1/2 can condensed milk",
+    "1/2 cup ripe jackfruit",
+    "3/4 cup mashed purple yam",
+    "1/2 teaspoon vanilla extract",
+    "1/4 teaspoon ube extract",
+    "1 tablespoon cooking oil or coconut oil",
+    "Violet food coloring",
+    "Yellow food coloring",
+    "1/4 cup latik",
+    
+    
+  ],
+  steps: [
+    "1.	In a large mixing bowl, combine glutinous rice flour and sugar. Mix well.",
+    "2.	Pour-in the condensed milk, coconut milk, and vanilla extract. Mix until the texture becomes smooth.",
+    "3.	Divide the mixture into 3 parts.",
+    "4.	Add the mashed purple yam and ube extract on the first part along with the violet food coloring. Stir thoroughly and then set aside.",
+    "5.	Shred the jackfruit (without the seed) in a food processor. Add the processed jackfruit on the second part along with the yellow coloring and then mix well. Set aside. Note: leave the 3rd part as it is.",
+    "6.	Arrange the steamer on your stovetop and pour-in about 1 quart of water. Turn on the heat and let the water boil.",
+    "7.	Grease a round baking pan by brushing cooking oil or coconut oil.",
+    "8.	Pour-in the first part (colored violet) on the greased baking pan. Make sure that the mixture settles. Cover the baking pan with a cheesecloth and then steam for 12 to 16 minutes.",
+    "9.	Remove the baking pan and then pour-in the white mixture. Use a spatula to spread it on top of the violet mixture. Remove excess water from the cheesecloth by squeezing it. Put it back on the baking pan. Steam for another 12 to 16 minutes.",
+    "10.	Remove the baking pan from the steamer and then pour-in the yellow mixture. Spread the mixture over the succeeding one using a spatula. Try to remove the excess water again from the cloth and then put it back on the baking pan. Steam for 15 to 20 minutes. Note: If you think that the mixture is still a bit runny, try to steam for 5 minutes more.",
+    "11.	Arrange a clean banana leaf over a wide serving plate. Brush coconut or cooking oil on the leaf. Use a spatula (brushed with oil) and gently run on the side of the baking pan to prevent the mixture from sticking. Turn the baking pan over the banana leaf and let the cooked sapin-sapin fall.",
+    "12.	Brush oil on top of the sapin-sapin (the violet part should be on top). Sprinkle with latik.",
+    "13.	Serve for dessert. Share and enjoy!",
+
+
+  ],
+  tag: "Dessert",
+},     
+
+
+{
+  id: 33,
+  name: "Buko Salad Recipe",
+  "ingredients": [
+    "4 cups young coconut (buko), shredded",
+    "6 ounces sugar palm fruit (kaong), drained",
+    "12 ounces coconut gel (nata de coco), drained",
+    "2 cans (15 ounces each) fruit cocktail, drained",
+    "8 ounces pineapple chunks, drained",
+    "1 (14 ounce) can sweetened condensed milk",
+    "7 ounces table cream"
+  ],
+  "steps": [
+    "1. In a mixing bowl, combine young coconut, kaong, nata de coco, pineapple chunks, and fruit cocktail. Gently stir to distribute the ingredients.",
+    "2. Add sweetened condensed milk and table cream. Mix until all the ingredients are properly distributed.",
+    "3. Refrigerate for at least 4 hours or place in the freezer for 1 hour.",
+    "4. Transfer to a serving bowl.",
+    "5. Serve for dessert.",
+    "6. Share and enjoy!"
+  ],
+ tag: "Dessert",
+},
+
+{
+  id: 34,
+  name: "Bananacue Recipe",
+  "ingredients": [
+    "6 pieces saging na saba (Asian plantains)",
+    "2 cups brown sugar",
+    "4 cups cooking oil"
+  ],
+  "steps": [
+    "1. Heat a cooking pot then pour cooking oil into it.",
+    "2. When the oil becomes hot, deep fry the bananas for 2 minutes.",
+    "3. Gradually put the brown sugar into the pot, adjust the heat to medium-low, and continue cooking until the melted brown sugar coats the bananas. Note: Gently stir the bananas so that they can get coated with melted brown sugar easily.",
+    "4. Remove the cooked bananas one by one and immediately skewer them using bamboo skewers. Note: 2 pieces per skewer is recommended.",
+    "5. Let cool, then serve with cold soda.",
+    "6. Share and enjoy!"
+  ],
+  tag: "Dessert",
+},
+
+{
+  id: 35,
+  name: "Egg Pie Recipe",
+  "ingredients": {
+    "Pie Crust": [
+      "2 1/2 cups all-purpose flour",
+      "1 teaspoon salt",
+      "1 cup unsalted butter, chilled and cut into cubes",
+      "1/4 to 1/2 cup cold water",
+      "2 tablespoons granulated sugar"
+    ],
+    "Filling": [
+      "1 3/4 cups evaporated milk",
+      "3 pieces raw eggs",
+      "1 piece egg white, separated from the yolk",
+      "1 teaspoon vanilla extract",
+      "1 cup granulated sugar"
+    ]
+  },
+  "isteps": [
+    "1. Create the crust by combining the flour, sugar, and salt then mix well.",
+    "2. Add the butter in the middle and mix using a pastry mixer.",
+    "3. Gradually pour the cold water while mixing the ingredients. Continue mixing until all the ingredients are well incorporated.",
+    "4. Gather the dough and mold it into a ball-shaped figure.",
+    "5. Refrigerate the dough for at least 30 minutes to harden the butter.",
+    "6. Sprinkle flour on a clean flat surface and flatten the refrigerated dough using a rolling pin. The flattened dough should be wide enough to cover a 9-inch circular baking pan.",
+    "7. Arrange the flattened dough on top of the baking pan and cut the extra edge using a pair of scissors.",
+    "8. Refrigerate while doing the filling.",
+    "9. Start making the filling by scalding the evaporated milk. This is done by heating it in the microwave oven for 2 minutes.",
+    "10. In a large mixing bowl, combine the 3 raw eggs and the separated egg yolk then whisk.",
+    "11. Gradually add the granulated sugar while whisking.",
+    "12. Put in the vanilla extract then whisk until every ingredient is properly distributed.",
+    "13. Pour the scalded milk into the mixture then mix thoroughly.",
+    "14. Beat the separated egg white using an electric mixer until it forms soft peaks.",
+    "15. Fold the processed egg white into the milk-eggs-sugar mixture.",
+    "16. Preheat the oven to 350 degrees Fahrenheit.",
+    "17. Pour the filling mixture onto the refrigerated pie crust.",
+    "18. Bake for 15 minutes at 350 degrees Fahrenheit then lower the heat to 325 degrees Fahrenheit and continue baking for 30 to 40 minutes.",
+    "19. Remove the egg pie from the oven and let it cool.",
+    "20. Serve for dessert. Share and enjoy!"
+  ],
+  tag: "Dessert",
+},
+
+{
+  id: 36,
+  name: "Bananacue Recipe",
+  "Ingredients": [
+    "2 1/4 cups glutinous rice",
+    "1 teaspoon lye water",
+    "2 cups water",
+    "1 whole banana leaf cleaned"
+  ],
+  "steps": [
+    "Place the glutinous rice in a mixing bowl then pour water. Stir and soak for 2 to 3 hours.",
+    "Drain excess water from the mixing bowl then add lye water and stir thoroughly. The mixture will turn yellowish. Let stand for 30 minutes. Note: do not go beyond the recommended measurement for lye water.",
+    "Prepare the banana leaves. Note: Fresh banana leaves can be heated directly in fire for a very short time. This releases the natural aroma of the leaf and makes it more flexible. If you are using fresh frozen banana leaves, it is better to just wash it in warm water. You’ll need a pair of leaves per serving. The bigger leaf should measure about 12 by 10 inches while the smaller is 4 by 5 inches.",
+    "Arrange the banana leaves by placing the larger leaf first on a flat surface then put the smaller leaf in the center of the larger leaf.",
+    "Scoop about 1/4 cup of the rice mixture and place it over the smaller leaf.",
+    "Fold the leaf to secure the rice mixture and tie with kitchen twine.",
+    "Arrange the folded banana leaves with rice mixture in a cooking pot then pour enough water.",
+    "Turn on the heat then let it boil. Simmer for 80 minutes.",
+    "Turn off the heat and transfer the banana leaf-covered rice cake onto a serving dish.",
+    "Serve with white sugar, brown sugar, or latik. Share and enjoy!"
+  ],
+  tag: "Dessert",
+},
+
+{
+  id: 37,
+  name: "Tofu And Broccoli Stir Fry",
+  "ingredients": [
+    "8 oz. extra firm tofu, sliced in 1/2 inch thick pieces",
+    "3 cups sliced broccoli florets",
+    "1 carrot, sliced diagonally (optional)",
+    "1 medium onion, sliced",
+    "1 teaspoon minced garlic",
+    "1 teaspoon minced ginger",
+    "2 tablespoons oyster sauce",
+    "6 tablespoons cooking oil",
+    "Salt and pepper to taste"
+  ],
+  "steps": [
+    "1. Heat a pan and then pour 4 tablespoons of cooking oil into it.",
+    "2. When the oil becomes hot, fry both sides of the sliced tofu until the texture becomes crisp (about 8 to 10 minutes per side).",
+    "3. Remove the tofu from the pan and let it cool. Slice into smaller rectangular pieces. Set aside.",
+    "4. On a clean frying pan, heat the remaining oil.",
+    "5. Sauté the garlic, ginger, and onion.",
+    "6. Add the fried tofu slices along with the oyster sauce. Stir.",
+    "7. Put in the broccoli florets. Stir and then cook for 5 to 8 minutes.",
+    "8. Add salt and pepper to taste.",
+    "9. Transfer to a serving plate.",
+    "10. Serve with rice. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+ id: 38,
+  name: "Ginisang Puso Ng Saging", 
+  "ingredients": [
+    "1 banana heart",
+    "8 ounces pork, thinly sliced",
+    "1 Knorr Pork Cube",
+    "2 ounces vermicelli (sotanghon)",
+    "1 onion",
+    "3 cloves garlic",
+    "½ cup white vinegar",
+    "5 cups water",
+    "3 tablespoons cooking oil",
+    "1 tablespoon salt",
+    "Fish sauce and ground black pepper to taste"
+  ],
+  "steps": [
+    "1. Clean the banana heart and slice it into thin pieces. Combine ½ cup vinegar and 1 cup of water in a large bowl. Put the sliced banana heart into the mixture. Rub the salt onto it and soak for 10 to 20 minutes. Drain the liquid mixture and then wring the banana hearts (a chunk at a time) to force the liquid to come out. Set aside.",
+    "2. Soak the vermicelli in 2 cups of water for 12 minutes. Drain the water and then set the vermicelli aside.",
+    "3. Heat the oil in a pan. Sauté the garlic and onion until the latter softens.",
+    "4. Add the pork slices. Continue to cook until they brown.",
+    "5. Pour 1 cup of water into the pan. Cover it and let the water boil. Adjust the heat between low to medium heat setting. Cook until the liquid completely evaporates.",
+    "6. Add the sliced banana hearts. Sauté for 2 minutes.",
+    "7. Pour the remaining 1 cup of water into the pan. Let it boil. Add Knorr Pork Cube. Cover and cook until the water reduces to half. Note: you can add more water if the banana heart slices need to be cooked further to soften.",
+    "8. Remove the cover and season with fish sauce and ground black pepper as needed.",
+    "9. Serve with rice. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 39,
+  name: "Kangkong And Ground Pork With Oyster Sauce Stir Fry", 
+  "ingredients": [
+    "¾ lbs. water spinach (kangkong)",
+    "¼ lb. ground pork",
+    "3 tablespoons oyster sauce",
+    "1 onion, minced",
+    "1 head garlic, crushed",
+    "¼ cup water",
+    "8 tablespoons cooking oil",
+    "Salt and Ground Black Pepper to taste"
+  ],
+  "steps": [
+    "1. Brown the garlic by slowly frying it in oil until it turns golden brown. Do this by heating the oil in a pan. After around 20 seconds, add the crushed garlic. Stir and fry using a low to medium heat setting until it browns. Separate the garlic with the oil. Set aside. Note: This is an optional step. The browned garlic can be used as a topping or condiment for this dish and for other dishes too.",
+    "2. Using 3 tablespoons of the oil used to fry the garlic, sauté the onion until it softens.",
+    "3. Add the ground pork. Sauté for 3 to 5 minutes or until the pork turns light brown.",
+    "4. Add oyster sauce and water. Stir and cook until the water evaporates completely.",
+    "5. Put the water spinach stalks into the pan. Stir-fry for 2 minutes.",
+    "6. Add the water spinach leaves and a portion of the browned garlic. Cook for 1 minute. Note: you may add up to ½ cup of water if you like this with a bit of sauce.",
+    "7. Season with salt and ground black pepper. Arrange on a serving plate and top with more browned garlic.",
+    "8. Serve with rice. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 40,
+  name: "Eggplant With Ground Pork In Oyster Sauce", 
+  "ingredients": [
+    "2 Chinese eggplants, sliced",
+    "4 ounces ground pork",
+    "1 red bell pepper",
+    "1 onion, minced",
+    "3 cloves garlic, minced",
+    "1 thumb ginger",
+    "½ teaspoon sesame oil",
+    "1 tablespoon soy sauce",
+    "1 teaspoon brown sugar",
+    "1 red bell pepper",
+    "5 tablespoons cooking oil",
+    "2 tablespoons oyster sauce",
+    "3 stalks green onion",
+    "½ cup water",
+    "Salt and ground black pepper to taste"
+  ],
+  "steps": [
+    "1. Heat 3 tablespoons of cooking oil in a pan. Fry both sides of the sliced eggplants until they soften. Transfer the eggplants to a clean plate. Set aside.",
+    "2. Add the remaining cooking oil and sesame oil. Sauté the onion, garlic, and ginger.",
+    "3. Add the ground pork once the onion softens. Sauté it until the color turns light brown.",
+    "4. Add soy sauce, oyster sauce, sugar, and water. Continue cooking until the liquid evaporates.",
+    "5. Add the bell pepper and then put the eggplants back into the pan. Stir-fry for 3 minutes.",
+    "6. Season with salt and ground black pepper.",
+    "7. Serve hot over rice. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 41,
+  name: "Crab And Corn Chopsuey", 
+  "ingredients": [
+    "8 ounces extra firm tofu, fried",
+    "37 grams Knorr Crab and Corn Soup",
+    "12 quail eggs, boiled",
+    "1 ½ cups cauliflower florets",
+    "1 ½ cups broccoli florets",
+    "1 carrot",
+    "15 snow peas",
+    "1 red bell pepper",
+    "1 green bell pepper",
+    "1 ½ cups cabbage",
+    "1 yellow onion",
+    "4 cloves garlic",
+    "2 tablespoons soy sauce",
+    "1 tablespoon oyster sauce",
+    "1 ½ cups water",
+    "Salt and ground black pepper to taste",
+    "3 tablespoons cooking oil"
+  ],
+  "steps": [
+    "1. Heat oil in a wok. Sauté onion and garlic until the onion softens.",
+    "2. Add carrot, cauliflower, and broccoli. Cook for 2 minutes.",
+    "3. Add cabbage, bell pepper, and snow peas. Toss.",
+    "4. Add soy sauce and oyster sauce and continue cooking for 2 minutes.",
+    "5. Combine water and Knorr Crab and Corn Soup Mix. Stir and pour into the wok. Let it boil.",
+    "6. Add fried tofu and quail eggs. Continue cooking until the sauce reduces and thickens.",
+    "7. Season with salt and ground black pepper as needed.",
+    "8. Transfer to a serving plate.",
+    "9. Serve. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 42,
+  name: "Crispy Cabbage Rolls", 
+  "ingredients": {
+    "Cabbage Leaves": [
+      "12 Napa cabbage Leaves",
+      "4 cups water",
+      "3 cups ice cold water"
+    ],
+    "Coating and Frying": [
+      "1 ½ cups panko breadcrumbs",
+      "2 eggs, beaten",
+      "½ cup all-purpose flour",
+      "1 cup cooking oil",
+      "1 teaspoon salt"
+    ],
+    "Filling Ingredients": [
+      "1 Knorr Pork Cube",
+      "1 egg",
+      "5 tablespoons all-purpose flour",
+      "½ cup carrot, minced",
+      "½ cup green onion, minced",
+      "1 lb. ground pork",
+      "1 onion, chopped",
+      "5 cloves garlic, chopped",
+      "2 tablespoons soy sauce",
+      "2 teaspoons sesame oil",
+      "Salt and ground black pepper to taste",
+      "3 tablespoons cooking oil"
+    ]
+  },
+  "isteps": [
+    "1. Boil 4 cups of water in a cooking pot. Add 1 teaspoon salt.",
+    "2. Put the Napa cabbage in the pot. Boil for 1 minute. Pour cold water in a large bowl. Remove the cabbage from the pot and submerge it into the cold water until it cools down. Remove and dry the cabbage. Set aside.",
+    "3. Cook the meat filling by heating 3 tablespoons of cooking oil in a pan. Sauté the garlic until it starts to brown. Add onion. Cook until the onion softens. Add the ground pork and continue cooking while stirring until the pork turns light brown. Add Knorr Pork Cube and then cook for 2 minutes. Season with salt and ground black pepper. Transfer to a large bowl. Let it cool down.",
+    "4. Add minced carrot, minced green onion, egg, all-purpose flour, soy sauce, and sesame oil. Mix well.",
+    "5. Scoop 3 tablespoons of the meat mixture and arrange it over a piece of Napa cabbage. Secure the filling by folding both sides of the cabbage inwards and roll until the filling is completely covered. Secure by inserting a toothpick into the cabbage roll.",
+    "6. Start to fry the cabbage rolls by heating cooking oil in a pan. Meanwhile, dredge the cabbage roll in all-purpose flour, dip in beaten egg, and dredge in panko breadcrumbs until completely coated. Fry one side until it turns golden brown. Turn it over and do the same on the opposite side. Remove from the pan and place over a plate lined with paper towel or on a wire rack. Let it cool down.",
+    "7. Slice the cabbage rolls into bite-sized pieces. Serve with your favorite dipping sauce. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 43,
+  name: "Ginataang Sitaw At Kalabasa With Fried Tilapia", 
+  "ingredients": [
+    "3 lbs. tilapia, cleaned and scales removed",
+    "45 grams Knorr Ginataang Gulay Mix",
+    "1 lb. calabaza squash, sliced",
+    "12 string beans, cut in 2-inch length pieces",
+    "1 onion, chopped",
+    "4 cloves garlic, crushed and chopped",
+    "1 ½ cups water",
+    "1 cup cooking oil",
+    "3 tablespoons salt"
+  ],
+  "steps": [
+    "1. Prepare the fish by washing it thoroughly. Let it dry. Rub salt all over it and into the cavity.",
+    "2. Heat 1 cup cooking oil in a pan. Fry one side of the fish until it gets golden brown and crispy. Turn it over and do the same procedure on the opposite side. Remove from the pan and arrange on a serving plate. Set aside.",
+    "3. Cook the ginataang sitaw by sautéing garlic and onion in a pan.",
+    "4. Add the sliced calabaza squash (kalabasa). Stir-fry for 2 minutes.",
+    "5. Add the string beans. Cook while occasionally stirring for 2 minutes.",
+    "6. Combine Knorr Ginataang Gulay Mix and 1 ½ cups water. Stir and pour it into the pan. Cover the pan with a lid and let the liquid boil. Cook for 5 to 7 minutes.",
+    "7. You can season with salt and ground black pepper as needed.",
+    "8. Serve with rice and fried tilapia. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 44,
+  name: "Pork Monggo With Crispy Galunggong",
+  "Monggo Ingredients": [
+    "1 ½ cups mung beans",
+    "1 Knorr Pork Cube",
+    "4 ounces pork, cut into small pieces",
+    "1 bunch hot pepper leaves",
+    "4 cloves garlic, chopped",
+    "1 onion, chopped",
+    "2 tomatoes, diced",
+    "5 cups water",
+    "3 tablespoons cooking oil",
+    "Fish sauce and ground black pepper to taste"
+  ],
+  "Galunggong Ingredients": [
+    "2 lbs. round scad galunggong, cleaned",
+    "3 tablespoons salt",
+    "1 cup cooking oil"
+  ],
+  "steps": [
+    "1. Start to tenderize the mung beans by boiling 4 cups of water in a cooking pot. Add the mung beans. Cover and cook over low heat until it softens.",
+    "2. Meanwhile, prepare the fish by rubbing salt all over it, including the cavity. Heat 1 cup of cooking oil in a pan. Fry the fish until it gets crispy. Set aside.",
+    "3. Cook the pork monggo by heating 3 tablespoons of cooking oil that you used to fry the fish. Sauté garlic, onion, and tomato.",
+    "4. Once the onion softens, add the pork. Cook it until it starts to brown. Pour 1 cup of water. Let it boil. Cover and continue cooking for 10 minutes.",
+    "5. Add the softened mung beans and more water as needed. Stir and cook for 5 minutes.",
+    "6. Add hot pepper leaves and season with fish sauce and ground black pepper.",
+    "7. Transfer to a serving bowl. Serve with warm rice and fried galunggong. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 45,
+  name: "Adobong Kangkong Recipe",
+  "Ingredients": [
+    "1 bunch kangkong leaves and stalks separated. Stalks cut in 1-inch pieces",
+    "1 piece onion chopped",
+    "1 head garlic crushed and chopped",
+    "1/4 cup soy sauce",
+    "1/8 cup vinegar",
+    "1/2 cup water optional",
+    "3 tablespoons cooking oil",
+    "Ground black pepper"
+  ],
+  "steps": [
+    "Heat oil in a pan.",
+    "Add the garlic. Saute until the color turns golden brown. Scoop-out a quarter of the browned garlic and put in a clean bowl. Save this later for garnish.",
+    "Add chopped onion. Saute until it softens.",
+    "Pour the soy sauce and vinegar in the pan. Let the liquid boil.",
+    "Add the Kangkong stalks. Cook for 2 minutes.",
+    "Add the Kangkong leaves. Stir. Continue cooking for 30 to 1 minute. Cover the pan and cook for 1 minute.",
+    "Season with ground black pepper. Note: you may also add salt if needed.",
+    "Transfer to a serving bowl and then top with browned garlic.",
+    "Serve. Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 46,
+  name: "Chop Suey",
+  "Ingredients": [
+    "7 pieces shrimp cleaned and deveined",
+    "3 ounces pork sliced",
+    "3 ounces boneless chicken breast sliced",
+    "1 ½ cup cauliflower florets",
+    "1 piece carrot sliced crosswise into thin pieces",
+    "15 pieces snow peas",
+    "8 pieces baby corn",
+    "1 piece red bell pepper sliced into squares",
+    "1 piece green bell pepper sliced into squares",
+    "1 ½ cups cabbage chopped",
+    "12 pieces quail eggs boiled",
+    "1 piece yellow onion sliced",
+    "4 cloves garlic crushed",
+    "¼ cup soy sauce",
+    "1 ½ tablespoons oyster sauce",
+    "¾ cup water",
+    "1 tablespoon cornstarch diluted in ½ cup water",
+    "¼ teaspoon ground black pepper",
+    "3 tablespoons cooking oil"
+  ],
+  "steps": [
+    "Heat oil in a wok or pan.",
+    "Pan fry the shrimp for 1 minute per side. Remove from the wok. Set aside.",
+    "Saute onion. Add garlic and continue to saute until the onion becomes soft.",
+    "Add pork and chicken. Stir fry until light brown.",
+    "Add soy sauce and oyster sauce. Stir.",
+    "Pour water. Let boil. Cover and cook in medium heat for 15 minutes.",
+    "Add cauliflower, carrots, bell peppers, snow peas, and young corn. Stir.",
+    "Add cabbage. Toss. Cover and cook for 5 to 7 minutes.",
+    "Put the pan-fried shrimp into the pot and add ground black pepper.",
+    "Add the boiled quail eggs and cornstarch diluted in water. Toss.",
+    "Transfer to a serving plate. Serve.",
+    "Share and enjoy!"
+  ],
+  tag: "Vegetable",
+},
+
+{
+  id: 47,
+  name: "Crispy Pancit Canton Noodles Recipe",
+  "Ingredients": [
+    "250 grams Pancit canton",
+    "37 grams Knorr crab and Corn soup",
+    "10 pieces shrimp cleaned",
+    "12 pieces quail eggs boiled",
+    "¼ lb. chicken thigh sliced",
+    "1 piece carrot thinly sliced crosswise",
+    "3 pieces baby bok choy halved",
+    "1 bunch green onion sliced",
+    "3 cloves garlic chopped",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon sesame oil",
+    "2 cups water",
+    "2 cups cooking oil"
+  ],
+  "steps": [
+    "Start to blanch the vegetables and shrimp by boiling the water in a cooking pot. Put the carrot first, quickly boil for 1-minute. Remove the carrot from the cooking pot and transfer to a bowl with ice cold water. Soak it for 2 minutes and then remove from the bowl and place in a clean plate. Do the same step with the bok choy and shrimp. Set aside.",
+    "Fry the pancit canton noodles. Start by heating 2 cups of oil in a wok. Add the pancit canton. Deep fry while gently tossing until it becomes crispy (around 30 to 45 seconds). Remove from the cooking pot. Let the oil drip before arranging it on a serving plate.",
+    "Make the sauce by sautéing garlic and the white part of the green onion. Add the chicken thigh. Cook for 2 minutes. Add the shrimp and carrot. Stir-fry for 30 seconds.",
+    "Combine Knorr Crab and Corn Soup with 500 ml. water. Mix well. Pour the mixture into the cooking pot. Stir and continue cooking until the sauce thickens.",
+    "Add the quail eggs, oyster sauce, and sesame oil. Season with ground white pepper.",
+    "Arrange the bok choy around the plate and then pour the sauce over the crispy noodles. Serve warm. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 48,
+  name: "Crispy Palabok",
+  "Ingredients": [
+    "250 grams rice vermicelli sotanghon",
+    "2 ½ cups cooking oil",
+    {
+      "Sauce Ingredients": [
+        "3 tablespoons cooking oil",
+        "1/2 lb. ground pork see note 1",
+        "2 teaspoons annatto powder see note 2",
+        "1 piece Knorr Shrimp Cube",
+        "2 tablespoons smoked fish flakes see note 3",
+        "4 tablespoons all-purpose flour",
+        "½ teaspoon onion powder",
+        "2 ½ cups water",
+        "Fish sauce and ground black pepper to taste"
+      ]
+    },
+    {
+      "Topping Ingredients": [
+        "½ cup pork rinds crushed",
+        "3 pieces hard boiled eggs wedged",
+        "12 pieces shrimp see note 4",
+        "¼ cup green onions chopped",
+        "3 tablespoons toasted garlic",
+        "1 piece lemon wedged, see note 5"
+      ]
+    }
+  ],
+  "steps": [
+    "Heat 2 ½ cups of cooking oil in a wok or cooking pot. Once the oil reaches 350F, fry the vermicelli until it gets puffed and crispy. Remove from the pan and let the oil drip off. Arrange on a serving plate. Also arrange half of the topping ingredients around the plate.",
+    "Make the sauce by heating the oil in a wok. Saute the white part of the green onion until it softens. Add the ground pork. Saute until it browns.",
+    "Add the annatto powder and flour. Continue cooking while stirring for 1 minute.",
+    "Pour the water into the wok. Bring it to a simmer.",
+    "Add Knorr Shrimp Cube, smoked fish flakes, and anion powder. Continue to simmer while stirring for 3 to 5 minutes. Make sure to add more water if the sauce needs to be thinned down. Season with fish sauce and ground black pepper.",
+    "Pour the sauce over the crispy noodles (Note: it is recommended to do this while the sauce is hot). Top with the remaining ingredients.",
+    "Serve. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 49,
+  name: "Sotanghon With Sayote And Giniling",
+  "Ingredients": [
+    "4 ounces sotanghon",
+    "4 ounces ground pork",
+    "2 chayote sliced",
+    "1 onion minced",
+    "5 cloves garlic",
+    "1 teaspoon annatto seeds",
+    "8 cups water",
+    "3 stalks green onion",
+    "Fish sauce and ground black pepper to taste",
+    "4 tablespoons cooking oil"
+  ],
+  "steps": [
+    "Make the annatto oil by combining 4 tablespoons of cooking oil and 1 teaspoon annatto seeds in a pan. Start heating the pan while gently stirring the oil. Turn the heat off once the oil shimmers. Continue to stir until the oil turns orangey. Remove the annatto seeds.",
+    "Using the annatto oil, sauté garlic until it browns.",
+    "Add the onion and the bottom part of the green onions. Continue to sauté until it softens.",
+    "Add the ground pork. Sauté until it browns.",
+    "Add 2 teaspoons fish sauce. Stir.",
+    "Pour 2 cups water. Cover the pot and let it boil. Reduce the heat to low setting. Boil the pork for 2 minutes.",
+    "Add the remaining water and let it boil.",
+    "Stir-in the chayote, and sotanghon noodles. Cook for 8 minutes.",
+    "Season with fish sauce and ground black pepper.",
+    "Transfer to a serving bowl and garnish with chopped green onion.",
+    "Serve hot. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 49,
+  name: "Seafood Lomi Noodles Recipe",
+  "Ingredients": [
+    "14 oz. wonton noodles",
+    "55 Grams Knorr Crab and Corn Soup",
+    "8 oz. Squid balls.",
+    "8 ounces Kani crab meat",
+    "½ head cabbage shredded",
+    "4 carrots diced",
+    "6 ounces long green beans",
+    "1 egg",
+    "1 onion minced",
+    "5 cloves garlic minced",
+    "2 tablespoons soy sauce",
+    "5 cup water",
+    "3 tablespoons cooking oil",
+    "Salt and ground black pepper to taste"
+  ],
+  "steps": [
+    "Heat oil in a cooking pot. Sauté the garlic and onion until the latter softens.",
+    "Add the squid balls and soy sauce. Sauté for 2 minutes.",
+    "Combine Knorr Crab and Corn Soup with 5 cups water. Stir until blended. Pour the mixture into the cooking pot. Let it boil.",
+    "Add the carrot, kani, long green beans, and cabbage. Cover and cook for 3 minutes.",
+    "Add the noodles and egg. Stir and continue cooking for 3 to 5 minutes.",
+    "Season with salt and ground black pepper.",
+    "Serve hot. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 50,
+  name: "Pan Fried Noodles With Beef And Veggies",
+  "Ingredients": [
+    "14 ounces egg noodles",
+    "½ lb. beef sliced into thin pieces",
+    "¼ cup green onion chopped",
+    "3 bunches bok choy",
+    "½ cup carrots Julienne",
+    "1 onion sliced",
+    "2 cloves garlic minced",
+    "1 teaspoon minced ginger",
+    "5 tablespoons cooking oil"
+  ],
+  "Sauce Ingredients": [
+    "3 ½ Tablespoons oyster sauce",
+    "2 teaspoons sesame oil",
+    "1 teaspoon sugar",
+    "2 Tablespoons soy sauce",
+    "3 Tablespoons Shaoxing cooking wine",
+    "1 ½ cups water",
+    "3 teaspoons cornstarch",
+    "1/8 teaspoon ground white pepper"
+  ],
+  "steps": [
+    "Prepare the noodles based on package instructions. Discard remaining water.",
+    "Heat 2 tablespoons of cooking oil in a pan. Add the noodles. Fry until the bottom part turns light brown. Continue by frying the opposite side (Note: if necessary, do this in 2 batches). Remove the noodles from the pan and arrange on a serving dish.",
+    "Combine all the sauce ingredients in a bowl. Mix well. Set aside.",
+    "Heat remaining oil on the same pan. Stir fry the beef until it browns. Add onion, ginger, and garlic. Cook until onion softens.",
+    "Add green onion and bok choy. Cook for 1 minute.",
+    "Pour the sauce mixture into the pan. Stir. Continue cooking until the sauce thickens to your desired consistency.",
+    "Pour everything over the fried noodles. Serve hot.",
+    "Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 51,
+  name: "Garlic Butter Shrimp Pancit Canton",
+  "Ingredients": [
+    "10 shrimp cleaned",
+    "1 egg fried",
+    "1 Knorr Shrimp Cube",
+    "21 ounces pancit canton flour noodles",
+    "4 cups water",
+    "2 cups cabbage shredded",
+    "½ lemon",
+    "1 head garlic minced",
+    "1 onion sliced",
+    "4 Tablespoons soy sauce",
+    "5 Tablespoons oyster sauce",
+    "1 cup green onion chopped",
+    "¼ cup butter",
+    "2 Tablespoons cooking oil",
+    "Salt and ground black pepper to taste"
+  ],
+  "steps": [
+    "Melt butter in a wok. Add cooking oil.",
+    "Put the garlic in the wok. Stir-fry until it turns light brown.",
+    "Add shrimp. Cook each side for 1 minute.",
+    "Squeeze the lemon over the shrimp. Cover the wok. Continue cooking for 1 minute. Season with salt.",
+    "Remove the shrimp from the wok and place in a clean plate. Leave the juices in the wok.",
+    "Allow the juices to evaporate until you are only left with the fats (butter and oil mixture).",
+    "Sauté onion until it softens and then add soy sauce and water. Let it boil.",
+    "Add Knorr Shrimp cube. Stir.",
+    "Put the cabbage and carrot in the wok. Cook for 30 seconds.",
+    "Add the noodles. Gently toss while cooking. Cook until the noodles completely absorb the liquid.",
+    "Add oyster sauce and green onion. Season with ground black pepper. Toss until all ingredients are well distributed.",
+    "Arrange the pancit canton in a serving plate and then top with shrimp and fried egg.",
+    "Share. Serve and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 52,
+  name: "Beef Pares Lomi",
+  "Ingredients": [
+    "2 1/2 lbs beef kalitiran",
+    "1 Knorr Beef Cube",
+    "1 lb. fresh miki noodles",
+    "5 cloves garlic chopped",
+    "1 onion chopped",
+    "1 1/2 teaspoons ginger chopped",
+    "2 tablespoons potato starch",
+    "3 tablespoons brown sugar",
+    "2 star anise",
+    "1 egg",
+    "3 tablespoons soy sauce",
+    "6 cups water",
+    "3 tablespoons cooking oil",
+    "Salt and ground black pepper to taste"
+  ],
+  "steps": [
+    "Heat oil in a wok. Sauté garlic, onion, and ginger until the onion softens.",
+    "Add beef. Sauté until the beef turns light brown.",
+    "Pour the soy sauce and water. Cover and Let boil.",
+    "Add star anise, sugar, and Knorr Beef Cube. Stir. Cover the wok and then adjust the heat to a low setting. Continue cooking until the beef tenderizes.",
+    "Remove and discard the star anise. Add the fresh noodles and then season with salt and ground black pepper. Cook for 3 minutes.",
+    "Thicken the soup by adding a slurry. Do this by combining potato starch with 3 tablespoons of water. Pour it into the wok and add beaten egg. Stir. Cook until the soup thickens based on your desired consistency.",
+    "Serve with soy dipping sauce and garlic fried rice, if preferred. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 53,
+  name: "Pancit Palabok Recipe",
+  "Ingredients": [
+    "500 grams rice noodles bihon"
+  ],
+  "Sauce Ingredients": [
+    "2 tbsp cooking oil",
+    "1/2 lb ground pork",
+    "1 tbsp anatto powder",
+    "3 cups pork broth",
+    "1 piece shrimp bouillon",
+    "6 tablespoons all-purpose flour",
+    "2 tbsp fish sauce",
+    "1/2 tsp ground black pepper"
+  ],
+  "Topping Ingredients": [
+    "1 cup pork belly boiled and sliced thinly into small pieces",
+    "4 ounces firm tofu fried and sliced into cubes",
+    "½ cup tinapa flakes smoked fish",
+    "½ cup chicharon pounded",
+    "2 hard boiled eggs sliced",
+    "½ cup cooked shrimps boiled or steamed",
+    "1/4 cup green onion or scallions finely chopped",
+    "3 Tablespoons toasted garlic",
+    "2 lemons sliced (or 6 pieces calamansi)"
+  ],
+  "steps": [
+    "Soak the rice noodles in water for about 15 minutes. Drain and set aside.",
+    "Cook the sauce by heating a saucepan. Pour-in the cooking oil.",
+    "When the oil is hot enough, put-in the ground pork and cook for about 5 to 7 minutes.",
+    "Dilute the annato powder in pork broth then pour the mixture in the saucepan. Bring to a boil (If you are using anatto seeds, soak them first in 3 tbsp water to bring-out the color).",
+    "Add the shrimp cube and stir and simmer for 3 minutes.",
+    "Add the flour gradually while stirring.",
+    "Add the fish sauce and ground black pepper then simmer until sauce becomes thick. Set aside.",
+    "Meanwhile, boil enough water in a pot.",
+    "Place the soaked noodles in a strainer (use metal or bamboo strainer) then submerge the strainer in the boiling water for about a minute or until the noodles are cooked. (make sure that the noodles are still firm)",
+    "Remove the strainer from the pot and drain the liquid from the noodles.",
+    "Place the noodles in the serving plate.",
+    "Pour the sauce on top of the noodles then arrange the toppings over the sauce.",
+    "Serve with a slice of lemon or calamansi. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 54,
+  name: "Pancit Chami",
+  "Ingredients": [
+    "1 lb. fresh noodles",
+    "4 ounces pork sliced",
+    "2 ounces chicken sliced",
+    "3 ounces pork liver sliced",
+    "2 ounces pork fat",
+    "3 tablespoons soy sauce",
+    "3 tablespoons oyster sauce",
+    "2 tablespoons brown sugar",
+    "1 teaspoon crushed red pepper",
+    "1 piece onion chopped",
+    "4 cloves garlic chopped",
+    "½ head cabbage sliced",
+    "¾ cup carrot Julienne",
+    "2 teaspoons cornstarch",
+    "8 pieces quail eggs boiled",
+    "1 cup water"
+  ],
+  "steps": [
+    "Heat wok or pan. Sear pork fat until enough oil is extracted.",
+    "Saute onion and garlic until the onion softens.",
+    "Add pork, chicken, and liver. Saute until the outer parts turn light brown.",
+    "Add soy sauce, oyster sauce, and water. Cover the wok. Let the liquid boil.",
+    "Add crushed red pepper and brown sugar. Stir. Continue boiling for 5 minutes.",
+    "Add fresh noodles. Toss.",
+    "Put the carrot and cabbage into the wok. Continue tossing until all ingredients are well blended. Cover and cook for 2 minutes.",
+    "Season with ground black pepper and pour cornstarch slurry (2 teaspoons of cornstarch + 2 teaspoons of soy sauce + ¼ cup water). Toss.",
+    "Add boiled quail eggs. Transfer to a serving plate. Serve! Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{ 
+   id: 55,
+  name: "Chicken mami",
+  "Ingredients": [
+    "12 oz. chicken breast bone-in",
+    "1 piece Knorr Chicken Cube",
+    "1 lb. fresh noodles",
+    "2 cups Napa cabbage chopped",
+    "3 eggs boiled",
+    "1 cup carrot julienne",
+    "1 cup green onion chopped",
+    "1 piece onion wedged",
+    "1 head garlic crushed",
+    "2 quarts water",
+    "1/2 cup cooking oil",
+    "Salt and ground black pepper to taste"
+  ],
+  "steps": [
+    "Combine chicken breast, onion, and 2 quarts water. Let the water boil.",
+    "Add Knorr Chicken Cube. Continue to boil for 40 minutes between low to medium heat.",
+    "While the chicken is cooking, prepare the toasted garlic. Combine crushed garlic and cooking oil in a small pan or pot. Turn the heat on and cook slowly while stirring until garlic browns. Filter the garlic using a kitchen sieve. Note: Save the oil to cook other dishes.",
+    "Heat 1 quart water in a small pot. Let boil. Add fresh noodles. Cook for 1 minute. Discard water. Arrange noodles in serving bowls, including Napa cabbage, carrot, and egg.",
+    "Once the chicken cooks completely, remove from the pot. Separate the meat from the bone and let it cool down. Slice the chicken into serving pieces.",
+    "Arrange the noodles, vegetables, and chicken in a serving bowl. Pour hot broth and top with chopped green onions and toasted garlic. Serve. Share and enjoy!"
+  ],
+  tag: "Noodle Dishes",
+},
+
+{
+  id: 56,
+  name: "Coconut Hot Cocoa",
+  "Ingredients": [
+    "1 cup vanilla-flavored coconut milk beverage (such as Silk®)",
+    "2 tablespoons cocoa powder",
+    "1 tablespoon white sugar",
+    "¼ teaspoon vanilla extract",
+    "¼ teaspoon ground cinnamon"
+  ],
+  "steps": [
+    "Stir coconut milk beverage, cocoa powder, sugar, vanilla extract, and cinnamon together in a saucepan over medium heat until cocoa and sugar are completely dissolved and mixture is heated through, 5 to 10 minutes.",
+    "Pour hot cocoa into a mug."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 57,
+  name: "Strawberry Beer Margaritas",
+  "Ingredients": [
+    "1 pound fresh strawberries, hulled and cut into chunks",
+    "12 fluid ounces white tequila",
+    "1 (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage",
+    "1 (12 fluid ounce) can or bottle light beer",
+    "1 (12 fluid ounce) can frozen limeade concentrate, thawed",
+    "Ice, or as needed",
+    "1 teaspoon kosher salt for rimming glasses"
+  ],
+  "steps": [
+    "Put strawberry chunks in a bowl. Pour tequila over strawberries. Marinate in refrigerator for 2 hours.",
+    "Blend strawberries and tequila in a blender until fully pureed; strain into a large pitcher to remove seeds.",
+    "Stir strained berry mixture, soda, beer, and limeade concentrate together in a pitcher. Add ice cubes to chill.",
+    "Rim glasses with salt before pouring margaritas."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 58,
+  name: "Saints and Strangers Cocktail",
+  "Ingredients": [
+    "2 fluid ounces vodka",
+    "2 fluid ounces freshly squeezed grapefruit juice",
+    "1 ½ fluid ounces freshly squeezed pomegranate juice",
+    "½ fluid ounce sweet French vermouth",
+    "½ ounce cream of balsamic (balsamic glaze)",
+    "¼ fluid ounce cold-pressed cranberry juice",
+    "⅛ teaspoon freshly ground pink peppercorns",
+    "Ice cubes",
+    "1 pinch freshly grated orange zest"
+  ],
+  "steps": [
+    "Place vodka, grapefruit juice, pomegranate juice, vermouth, cream of balsamic, cranberry juice, and peppercorns in a cocktail shaker.",
+    "Fill shaker with ice and shake well; strain into a martini glass.",
+    "Sprinkle with orange zest."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 59,
+  name: "Tequila Orange Fizz",
+  "Ingredients": [
+    "1 cup ice, or as needed",
+    "1 fluid ounce freshly squeezed orange juice",
+    "1 1/2 fluid ounces anejo tequila",
+    "4 ounces sparkling mineral water (such as Topo Chico®)",
+    "1 wedge orange",
+    "Flaked salt (optional)"
+  ],
+  "steps": [
+    "Fill a rocks glass with ice.",
+    "Add orange juice and tequila and top with mineral water.",
+    "Garnish with an orange wedge.",
+    "If desired, sprinkle a pinch of salt over the top."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 60,
+  name: "Watermelon Mojitos",
+  "Ingredients": [
+    "6 cups cubed seedless watermelon",
+    "50 fresh mint leaves",
+    "5 limes, juiced",
+    "1 cup white rum",
+    "⅔ cup simple syrup",
+    "2 cups ice cubes, or as needed",
+    "1 cup club soda, or as needed"
+  ],
+  "steps": [
+    "Place watermelon cubes into a blender and blend until smooth.",
+    "Pour into a bowl through a mesh strainer to remove pulp. Measure 2 cups strained watermelon juice and set aside.",
+    "Place mint leaves into the bottom of a pitcher. Pour in 1/2 of the watermelon juice; muddle mint leaves with a muddler or the bottom of a wooden spoon.",
+    "Pour in remaining watermelon juice, lime juice, rum, and simple syrup.",
+    "Fill the pitcher with ice and top with club soda. Serve."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 61,
+  name: "Fresh Orange Juice",
+  "Ingredients": [
+    "4 oranges"
+  ],
+  "steps": [
+    "Lightly smack each orange on the counter.",
+    "Cut each orange in half and squeeze juice into a glass."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 62,
+  name: "Fresh Grapefruit Juice Smoothie",
+  "Ingredients": [
+    "1 ⅓ cups fresh red grapefruit juice",
+    "8 large strawberries",
+    "2 medium bananas, sliced",
+    "1 (8 ounce) container strawberry-banana yogurt",
+    "2 tablespoons honey",
+    "1 cup crushed ice"
+  ],
+  "steps": [
+    "Place the grapefruit juice, strawberries, bananas, yogurt, honey, and ice into a blender.",
+    "Cover, and blend until smooth."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 63,
+  name: "Matcha Frappe",
+  "Ingredients": [
+    "1 1/2 cups Almond Breeze Original Almondmilk",
+    "1 tablespoon Almond Breeze Sweet Crème Almondmilk Creamer",
+    "2 teaspoons matcha",
+    "2 tablespoons vanilla syrup",
+    "2 cups ice"
+  ],
+  "steps": [
+    "Combine matcha, vanilla syrup, Almond Breeze Original Almondmilk, Almond Breeze Sweet Crème Almondmilk Creamer, and ice cubes in a blender.",
+    "Blend until smooth and frothy."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 64,
+  name: "Vanilla Milkshake",
+  "Ingredients": [
+    "2 cups vanilla ice cream",
+    "1 cup whole milk",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    "Blend ice cream, milk, and vanilla extract together in a blender until smooth; pour into glasses and serve."
+  ],
+  tag: "Drinks",
+},
+
+{
+  id: 65,
+  name: "Ube Milkshake",
+  "Ingredients": [
+    "½ ube (purple yam), peeled",
+    "½ cup milk",
+    "1 scoop vanilla ice cream"
+  ],
+  "steps": [
+    "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil.",
+    "Add ube, cover, and steam until tender, about 20 minutes. Cool until easily handled, then cut into cubes.",
+    "Combine 1/4 cup cubed ube, milk, and vanilla ice cream in a blender; blend until smooth."
+  ],
+  tag: "Drinks",
+},
+
+];
+module.exports = {recipe};
